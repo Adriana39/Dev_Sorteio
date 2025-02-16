@@ -1,4 +1,4 @@
-<img src="https://github.com/Adriana39/Projeto_Calculadora/blob/main/assets/calcu3.png">
+<img src="https://github.com/Adriana39/Dev_Sorteio/blob/main/devsorteio.png">
 <h1>Projeto de Sorteio de Números 🎲</h1>
 <p></p>Este projeto é uma aplicação web simples que permite ao usuário sortear um número entre dois valores fornecidos. Abaixo está um resumo das principais partes do projeto:</p>
 
