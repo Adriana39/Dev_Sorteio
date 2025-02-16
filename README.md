@@ -11,8 +11,9 @@
 <p>Corpo:
 Logo da aplicação.
 Título "Sorteando um Número".</p>
-<p>Campos de entrada para os números x e y.Botão "Sortear" que chama a função generateNumber().
-CSS 🎨
+<p>Campos de entrada para os números X  e Y.</p>
+<p>Botão "Sortear" que chama a função generateNumber().</p>
+<p>CSS 🎨
 Um arquivo CSS (style.css) é referenciado para estilizar a página.</p>
 
 <h3>JavaScript 💻</h3>
