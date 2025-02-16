@@ -19,32 +19,32 @@ body {
 input {
     display: inline;
     background-color: #b1b1b1;
-    color: rgb(253, 0, 0);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
     width: 342px;
     height: 100px;
     top: 705px;
     left: 1051px;
-   padding: auto; 
-    border-radius: 20px;    
+    padding: auto;
+    border-radius: 20px;
     margin-top: 10px;
-       
     margin-left: 20px;
     cursor: pointer;
-    font-size: 30px;
-   
+    font-size: 40px;
+
 
 }
 
 h2 {
-color: red;
-font-size: 50px;
-margin-bottom: 30px;
+    color: red;
+    font-size: 50px;
+    margin-bottom: 30px;
 
 }
 
 
 button {
-   
+
     background-color: #AEC346;
     width: 342px;
     height: 72px;
@@ -53,19 +53,19 @@ button {
     border-radius: 3px 3px 3px 3px;
     opacity: 1px;
     margin-top: 50px;
-    font-size:larger;
+    font-size: larger;
     color: rgb(255, 0, 0);
     border-radius: 20px;
     cursor: pointer;
 
 }
 
-button:hover{
+button:hover {
     color: #000000;
     background-color: red
-
 }
-img{
+
+img {
     width: 20%;
-    
+
 }
