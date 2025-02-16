@@ -27,7 +27,7 @@ input {
    padding: auto; 
     border-radius: 20px;    
     margin-top: 10px;
-   
+       
     margin-left: 20px;
     cursor: pointer;
     font-size: 30px;
@@ -64,4 +64,8 @@ button:hover{
     color: #000000;
     background-color: red
 
+}
+img{
+    width: 20%;
+    
 }
